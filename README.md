@@ -8,7 +8,7 @@ Use [`expo-router`](https://expo.github.io/router) to build native navigation us
 
 ## API
 
-Use rapidapi.com to get the job listings
+Use [`RapidAPI`](https://rapidapi.com) to get the job listings
 
 ## To start fresh
 
@@ -20,6 +20,7 @@ Use rapidapi.com to get the job listings
 # 🚀 How to use
 
 1- Clone the repo
+
 2- Install the dependencies
 
 ```sh
