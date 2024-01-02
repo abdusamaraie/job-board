@@ -8,6 +8,9 @@
       "expo-router"
     ],
     "name": "job-board",
-    "slug": "job-board"
+    "slug": "job-board",
+    "ios": {
+      "bundleIdentifier": "com.abdupro.job-board"
+    }
   }
 }
