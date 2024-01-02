@@ -10,6 +10,11 @@ Use [`expo-router`](https://expo.github.io/router) to build native navigation us
 
 Use [`RapidAPI`](https://rapidapi.com) to get the job listings
 
+### !IMPORTANT
+
+Make sure to add your own API key in the .env file
+with the followoing constant name: EXPO_PUBLIC_RAPID_API_KEY=YOUR_API_KEY_HERE with no quotes
+
 ## To start fresh
 
 ```sh
